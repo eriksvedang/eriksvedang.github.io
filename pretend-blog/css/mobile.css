@@ -8,3 +8,7 @@ h1 {
 	padding: 5px;
 	font-size: 120%;
 }
+
+.content:first-child {
+	margin-top: 10px;
+}
