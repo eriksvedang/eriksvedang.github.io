@@ -1,0 +1,101 @@
+body {
+	font-family: sans-serif;
+	background: url("../img/pins.jpg") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+div {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+.content {
+	margin: 0px auto 0px 10px;
+	width: 600px;
+	height: 100vh;
+	background-color: rgba(200, 230, 250, 0.8);
+	float: left;
+	padding: 10px;
+	overflow: scroll;
+}
+
+.menu {
+	background-color: rgba(200, 230, 250, 0.8);
+	float: left;
+	margin-top: 100px;
+	padding: 10px;
+	margin-left: 10px;
+	border-radius: 10px;
+}
+
+.menu li {
+	font-size: 20px;
+	background-color: #FFF;
+	margin-bottom: 10px;
+	padding: 10px;
+	text-align: center;
+	border: 5px solid #fff;
+	border-radius: 10px;
+}
+
+.menu li:last-child {
+	margin-bottom: 0px;
+}
+
+.menu li:hover {
+	border: 5px solid #456;
+}
+
+p {
+	font-size: 2.2vw;
+	/*background-color: #999;*/
+}
+
+article {
+	background-color: rgba(255, 255, 255, 1.0);
+	margin-bottom: 10px;
+	padding: 20px;
+	/*text-align: justify;*/
+	border-radius: 10px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	border: 5px solid #fff;
+}
+
+article:last-child {
+	margin-bottom: 0px;
+}
+
+article:hover {
+	border: 5px solid #456;
+}
+
+.leftbar {
+	margin-left: calc(50% - 390px);
+	width: 80px;
+	float: left;
+	background-color: rgba(200, 230, 250, 0.8);
+	margin-top: 100px;
+	border-radius: 10px;
+}
+
+.circle {
+	border-radius: 500px;
+	background: white;
+	font-size: 2em;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+	padding-top: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.circle:hover {
+	background-color: #F89;
+}
