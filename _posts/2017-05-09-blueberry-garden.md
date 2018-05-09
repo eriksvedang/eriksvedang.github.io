@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: work
 title: Blueberry Garden
 subtitle: curiosity and exploration in a hand drawn world
 image: Stars.jpg
