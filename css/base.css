@@ -1,0 +1,82 @@
+html {
+    background: #FFF;
+    font-family: 'Domine';
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+h2 {
+    font-size: 1.8em;
+    margin-bottom: 0.5em;
+}
+
+p {
+    font-size: 1.3em;
+    margin-bottom: 1.0em;
+}
+
+/* The whole page */
+.page {
+    margin: 1em;
+}
+
+.topbar {
+    font-family: 'Abril Fatface';
+    font-size: 2.1em;
+    text-align: center;
+    padding: 0.3em;
+    background: #fff;
+    color: #000;
+    /* border: 1px solid black; */
+}
+
+.menu {
+    text-align: center;
+    margin-bottom: 2.0em;
+}
+
+.menu a {
+    font-size: 1em;
+    color: #000;
+    text-decoration: none;
+}
+
+.content {
+    background: #eee;
+    padding: 0em;
+    margin: 0px;
+}
+
+/* Front page bricks */
+.brick {
+    width: 100%;
+    margin-bottom: 1%;
+    height: 120px;
+    float: left;
+    background-color: #eee;
+    background-size: cover;
+    color: #000;
+    text-decoration: none;
+}
+
+.brick:hover {
+
+}
+
+.bricktitle {
+    font-family: 'Abril Fatface';
+    padding: 0.4em;
+    font-size: 1.75em;
+    /* background: rgba(0,0,0,0.25); */
+    /* background: black; */
+    color: black;
+    /* width: 80%; */
+    margin: 5px;
+    /* text-align: center; */
+    /* vertical-align: middle; */
+    /* display:inline-block; */
+    /* background: #FED; */
+}
