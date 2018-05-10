@@ -23,6 +23,11 @@ p {
     margin-bottom: 1.0em;
 }
 
+a {
+    color: #589;
+    text-decoration: none;
+}
+
 /* The whole page container, nothing goes outside of this */
 .page {
     margin: 1em;
@@ -94,4 +99,16 @@ p {
 /* Container for content on "article" pages */
 .article {
     margin-top: 2em;
+}
+
+/* Container for content on "note" pages (short articles that look bad with article layout) */
+.note {
+    margin: auto;
+    max-width: 500px;
+    margin-top: 2em;
+}
+
+.note-illustration {
+    width: 100%;
+    margin-bottom: 1em;
 }
