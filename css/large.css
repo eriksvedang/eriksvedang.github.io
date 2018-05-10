@@ -6,6 +6,10 @@
     font-size: 3.5em;
 }
 
+.menu {
+    margin-bottom: 2.0em;
+}
+
 .brick {
     width: 32%;
     margin-right: 1%;
@@ -17,6 +21,10 @@
     width: calc(100% - 600px);
 }
 
-p {
+.work-description {
     max-width: 500px;
+}
+
+.article {
+    column-count: 2;
 }

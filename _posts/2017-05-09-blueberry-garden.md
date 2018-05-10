@@ -8,8 +8,14 @@ permalink: blueberry-garden
 tags: [major, game]
 ---
 
-## Released
+# Released
 June 1, 2009
 
-## More info
+# More info
 blah blah
+
+## Story
+This is a second level headline
+
+## Art
+This is a second level headline

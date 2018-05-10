@@ -1,23 +1,26 @@
 html {
-    background: #FFF;
+    background: white;
     font-family: 'Domine';
 }
 
 h1 {
     font-size: 2em;
     margin-bottom: 0.5em;
+    font-variant: small-caps;
+    font-weight: bold;
 }
 
 h2 {
-    font-size: 1.8em;
+    font-size: 1.6em;
     margin-bottom: 0.5em;
+    font-variant: small-caps;
+    font-weight: bold;
 }
 
 p {
     font-size: 1.3em;
     line-height: 1.5em;
     margin-bottom: 1.0em;
-    width: 100%;
 }
 
 /* The whole page container, nothing goes outside of this */
@@ -28,34 +31,23 @@ p {
 /* Large title at the top of the page */
 .title {
     font-family: 'Abril Fatface';
-    font-size: 2.1em;
+    font-size: 1.6em;
     text-align: center;
-    padding: 0.3em;
     background: #fff;
     color: #000;
-    /* border: 1px solid black; */
+    margin-bottom: 0.5em;
 }
 
 /* Small menu of links below the title */
 .menu {
     text-align: center;
-    margin-bottom: 2.0em;
+    margin-bottom: 1.0em;
 }
 
 .menu a {
     font-size: 1em;
     color: #000;
     text-decoration: none;
-}
-
-.content {
-    /* background: #eee; */
-    padding: 0em;
-    margin: 0px;
-}
-
-.work {
-    margin-top: 2em;
 }
 
 /* Front page bricks */
@@ -70,20 +62,24 @@ p {
     text-decoration: none;
 }
 
-.brick:hover {
-
-}
-
-.bricktitle {
+.brick-title {
     font-family: 'Abril Fatface';
     padding: 0.4em;
     font-size: 1.75em;
-    /* background: rgba(0,0,0,0.25); */
-    /* background: black; */
     color: black;
-    /* width: 80%; */
     margin: 5px;
-    /* text-align: center; */
-    /* vertical-align: middle; */
-    /* display:inline-block; */
+}
+
+/* Container for content on "work" pages */
+.work {
+    margin-top: 2em;
+}
+
+.work-description {
+    width: 100%;
+}
+
+/* Container for content on "article" pages */
+.article {
+    margin-top: 2em;
 }
