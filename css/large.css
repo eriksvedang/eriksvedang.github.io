@@ -11,6 +11,7 @@
 }
 
 .brick {
+    height: 120px;
     width: 32%;
     margin-right: 1%;
     margin-bottom: 1%;
