@@ -56,18 +56,22 @@ p {
     margin-bottom: 1%;
     height: 120px;
     float: left;
-    background-color: #eee;
     background-size: cover;
     color: #000;
     text-decoration: none;
 }
 
+.brick:hover {
+    box-shadow: 3px 3px 3px #ccc;
+}
+
 .brick-title {
     font-family: 'Abril Fatface';
     padding: 0.4em;
-    font-size: 1.75em;
+    font-size: 1.5em;
     color: black;
     margin: 5px;
+    /* text-shadow: 1px 1px 3px #000; */
 }
 
 /* Container for content on "work" pages */
@@ -76,6 +80,10 @@ p {
 }
 
 .work-description {
+    width: 100%;
+}
+
+.main-illustration {
     width: 100%;
 }
 

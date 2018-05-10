@@ -16,13 +16,17 @@
     margin-bottom: 1%;
 }
 
-.main-illustration {
-    float: right;
-    width: calc(100% - 600px);
+.brick-title {
+    font-size: 1.75em;
 }
 
 .work-description {
     max-width: 500px;
+}
+
+.main-illustration {
+    width: 50%;
+    float: right;
 }
 
 .article {
