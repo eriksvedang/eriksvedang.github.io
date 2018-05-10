@@ -2,7 +2,7 @@
 layout: main
 ---
 
-{% include topbar.html %}
+{% include title.html %}
 
 <div class="menu">
   <a href="/">← www.eriksvedang.com</a>
@@ -10,7 +10,9 @@ layout: main
 
 <div class="work">
 
+  {% if page.image %}
   <img class="main-illustration" src='/img/{{page.image}}'>
+  {% endif %}
 
   {{content}}
 
