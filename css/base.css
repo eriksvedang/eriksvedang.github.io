@@ -67,11 +67,11 @@ p {
 
 .brick-title {
     font-family: 'Abril Fatface';
-    padding: 0.4em;
+    padding: 0.1em;
     font-size: 1.5em;
     color: black;
     margin: 5px;
-    /* text-shadow: 1px 1px 3px #000; */
+    text-shadow: 1px 1px 3px #000;
 }
 
 /* Container for content on "work" pages */
