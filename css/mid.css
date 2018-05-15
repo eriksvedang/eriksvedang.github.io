@@ -18,11 +18,7 @@
 }
 
 .brick-title {
-    font-size: 1.75em;
-}
-
-.work-left-side {
-    /* max-width: 500px; */
+    font-size: 1.7em;
 }
 
 .work-description {
@@ -47,7 +43,7 @@
 .info-item {
     /* border: 1px solid black; */
     text-align: center;
-    width: 15%;
+    width: 14%;
     padding-top: 2em;
     height: 100px;
 }
@@ -57,5 +53,5 @@
 }
 
 .info-body {
-
+    font-size: 1.5em;
 }
