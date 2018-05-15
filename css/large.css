@@ -21,15 +21,41 @@
     font-size: 1.75em;
 }
 
+.work-left-side {
+    /* max-width: 500px; */
+}
+
 .work-description {
-    max-width: 500px;
+    margin-top: 2em;
 }
 
 .main-illustration {
     width: 50%;
     float: right;
+    margin-left: 50px;
 }
 
 .article {
     column-count: 2;
+}
+
+.infos {
+    margin-bottom: 1em;
+    border: 1px solid black;
+}
+
+.info-item {
+    /* border: 1px solid black; */
+    text-align: center;
+    width: 15%;
+    padding-top: 2em;
+    height: 100px;
+}
+
+.info-header {
+    /* font-size: 2em; */
+}
+
+.info-body {
+
 }

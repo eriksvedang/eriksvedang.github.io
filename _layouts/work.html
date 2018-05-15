@@ -14,8 +14,45 @@ layout: main
   <img class="main-illustration" src='/img/{{page.image}}'>
   {% endif %}
 
-  <div class="work-description">
-    {{content}}
+  <div class="work-left-side">
+
+    <div class="info-item">
+      <div class="info-header">Released</div>
+      <div class="info-body">{{page.released}}</div>
+    </div>
+
+    <div class="info-item">
+      <div class="info-header">Platforms</div>
+      <div class="info-body">{{page.platforms}}</div>
+    </div>
+
+    <div class="info-item">
+      <div class="info-header">Available</div>
+      <div class="info-body">{{page.available}}</div>
+    </div>
+
+    <!-- <div class="info-item"> -->
+    <!--   <div class="info-header">My role</div> -->
+    <!--   <div class="info-body">Designer</div> -->
+    <!-- </div> -->
+
+    <!-- <div class="info-item"> -->
+    <!--   <div class="info-header">Collaborators</div> -->
+    <!--   <div class="info-body">Daduk (Music)</div> -->
+    <!-- </div> -->
+
+    <!-- <div class="info-item"> -->
+    <!--   <div class="info-header">Collabor</div> -->
+    <!--   <div class="info-body">Daduk</div> -->
+    <!-- </div> -->
+
+
+    <hr>
+
+    <div class="work-description">
+      {{content}}
+    </div>
+
   </div>
 
 </div>

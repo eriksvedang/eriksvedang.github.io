@@ -92,12 +92,39 @@ a:hover {
     margin-top: 2em;
 }
 
+.work-left-side {
+    /* background: red; */
+}
+
+.work-left-side hr {
+    clear: left;
+}
+
 .work-description {
     width: 100%;
 }
 
 .main-illustration {
     width: 100%;
+}
+
+.info-item {
+    width: 100%;
+    float: left;
+    text-align: left;
+    padding-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.info-header {
+    font-size: 1.0em;
+    font-variant: small-caps;
+    margin-bottom: 0.5em;
+}
+
+.info-body {
+    font-size: 1.8em;
+    font-family: 'Abril Fatface';
 }
 
 /* Container for content on "article" pages */
@@ -144,4 +171,5 @@ a:hover {
     text-align: center;
     color: black;
     clear: both;
+    padding: 3em;
 }
