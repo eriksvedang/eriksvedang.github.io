@@ -1,0 +1,18 @@
+---
+layout: article
+image: HackingDevice.png
+color: '#C40'
+tags: [article]
+---
+
+This morning I flipped through a fresh copy of a Swedish game magazine called Level. On one of the ‘indie’ pages I found an interesting looking game by Blendo Games, the creator of Gravity Bone & Thirty Flights of Loving (two famous and very good indie games, you should definitely try them out if you haven’t). This game was called Quadrilateral Cowboy and apparently it revolves around hacking and computers. It had also made a splash at IndieCade so I guess a lot of you know about it already and that I’m just really behind the times – that’s what happens when you work hard on your own things. Reading further I realized it’s a game where you learn how to program computers and get be a oldschool hacker, breaking into places and doing other cool things. The computers in the screen shots looked suspiciously similar to the ones we have in our work in progress Else Heartbreak – a game that happens to also involve programming computers and “realistic” hacking. My heart started beating faster. Oh no, I thought to myself, please not another one of these damn great-looking programming games!
+
+The thing is that Quadrilateral Cowboy seems really good and actually not that similar to the thing me and my friends are working on. I hope that both our games will find big (overlapping) audiences. The only thing that worries me is that they both share a very distinct feature (‘programming’) and unfortunately computer games and their critics are extremely concerned with these kinds of features. There is a good reason for this also, features are tightly connected to game mechanics and how something works. Games surely do work a lot. Seen as an artistic medium this  is really dangerous though, since it makes us focus too little on the themes, feelings and ideas expressed through the game. Put another way: most people would agree that a piece of art isn’t good because of the individual parts (the ‘features’) but rather because of how they all fit together and feel as a whole. This is true of games too but by always examining the parts first we get into tons of trouble when thinking about them, arguing whether gameplay is better than graphics, what elements they must contain to be called games and other strange things.
+
+What I’ve realized is that as a creator and artist I can’t rely at all on features, it was a severe mistake if I ever thought I could. Back when we started working on Else Heartbreak a little over three years ago this whole idea of computers inside the game seemed so fresh and new, like a free ticket to get people interested. Games with programming were mostly Robot Wars like things or pure fakery with mini-game puzzles symbolizing hacking, to actually make the machines work “for real” was a very exciting thought. Today the situation is quite different and it seems like everyone is putting little computers into their game. Maybe it’s an effect of what is technically feasible to do nowadays or maybe it’s just the zeitgeist, I don’t know. I think we will have to get used to that they are part of games anyway, and I actually think it will be a lot of fun. It’s just not very unique anymore.
+
+I hope that in the end people who play games will not be too obsessed with features, getting hung up on whoever thought of something first or that something which perhaps seemed like a very novel and weird idea pops up in several people’s work around the same time. In the end each game is its own little world of themes, ideas and things to experience. Seen as cohesive wholes they are expressions of their creators and their features should only help fulfill that cause.
+
+Thanks for reading,
+
+Erik

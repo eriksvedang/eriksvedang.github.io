@@ -1,0 +1,11 @@
+---
+layout: main
+title: Notes
+---
+
+{% include title.html %}
+{% include menu.html %}
+
+{% for post in site.tags['note'] %}
+{% include brick.html %}
+{% endfor %}
