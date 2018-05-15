@@ -1,0 +1,61 @@
+.page {
+    margin: 2em 2em;
+}
+
+.title {
+    font-size: 3.0em;
+}
+
+.menu {
+    margin-bottom: 2.0em;
+}
+
+.brick {
+    height: 120px;
+    width: 49%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+}
+
+.brick-title {
+    font-size: 1.75em;
+}
+
+.work-left-side {
+    /* max-width: 500px; */
+}
+
+.work-description {
+    margin-top: 2em;
+}
+
+.main-illustration {
+    width: 50%;
+    float: right;
+    margin-left: 50px;
+}
+
+.article {
+    column-count: 2;
+}
+
+.infos {
+    margin-bottom: 1em;
+    border: 1px solid black;
+}
+
+.info-item {
+    /* border: 1px solid black; */
+    text-align: center;
+    width: 15%;
+    padding-top: 2em;
+    height: 100px;
+}
+
+.info-header {
+    /* font-size: 2em; */
+}
+
+.info-body {
+
+}
