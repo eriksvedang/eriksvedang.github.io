@@ -8,7 +8,7 @@ image: SliceAndDice.jpg
 color: '#1F9'
 
 permalink: slice-and-dice
-tags: [major, game, boardgame]
+tags: [major, game, analog]
 
 released: In development
 platforms: Boardgame

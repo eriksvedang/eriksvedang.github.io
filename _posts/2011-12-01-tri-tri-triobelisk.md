@@ -12,6 +12,6 @@ tags: [major, game, ios]
 
 released: December 2011
 platforms: iOS
-available: Nope
+available: iTunes
 
 ---
