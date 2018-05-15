@@ -117,6 +117,15 @@ a:hover {
     width: 100%;
 }
 
+.official-site {
+    width: 40%;
+    padding: 1em;
+    float: left;
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Abril Fatface';
+}
+
 .info-item {
     width: 100%;
     float: left;
