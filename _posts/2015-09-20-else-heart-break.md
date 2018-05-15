@@ -5,7 +5,7 @@ subtitle: a hacking adventure
 image: Dot.jpg
 color: '#F5C'
 permalink: else-heart-break
-tags: [major, game]
+tags: [major-digital, pc]
 ---
 
 Sebastian has just landed his first job in the distant city of Dorisburg. He moves there to start his adult life and figure out who he really wants to be. Among a strange collection of people, hackers and activists he finds some true friends – perhaps even love. But can they stop the terrible deeds of the people ruling the city? And who will get their heart broken in the end?”

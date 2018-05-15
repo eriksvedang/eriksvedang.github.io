@@ -7,8 +7,8 @@ subtitle:
 image: ShotShotShoot.jpg
 color: '#1FF'
 
-permalink: slice-and-dice
-tags: [major, game, boardgame]
+permalink: shot-shot-shoot
+tags: [major-digital, ios]
 
 released: In development
 platforms: Boardgame

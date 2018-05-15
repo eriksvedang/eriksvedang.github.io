@@ -8,7 +8,7 @@ image: Clairvoyance.jpg
 color: '#F00'
 
 permalink: clairvoyance
-tags: [major, game, pc, ios]
+tags: [major-digital, ios, pc]
 
 released: In beta
 platforms: Windows, Linux & Mac

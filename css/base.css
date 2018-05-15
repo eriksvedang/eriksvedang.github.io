@@ -87,6 +87,15 @@ a:hover {
     /* text-shadow: 1px 1px 3px #000; */
 }
 
+.section {
+    clear: both;
+}
+
+.space {
+    clear: both;
+    height: 30px;
+}
+
 /* Container for content on "work" pages */
 .work {
     margin-top: 2em;

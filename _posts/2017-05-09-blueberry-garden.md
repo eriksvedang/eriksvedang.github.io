@@ -8,7 +8,7 @@ image: BlueberryGarden.jpg
 color: '#19F'
 
 permalink: blueberry-garden
-tags: [major, game]
+tags: [major-digital, pc]
 
 released: June 2009
 platforms: Windows, Linux & Mac

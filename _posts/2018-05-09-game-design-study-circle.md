@@ -5,7 +5,7 @@ subtitle:
 image: Ur.jpg
 color: pink
 permalink:
-tags: [misc]
+tags: [misc, event]
 ---
 
 Study.
