@@ -93,7 +93,16 @@ a:hover {
 
 .space {
     clear: both;
-    height: 30px;
+    height: 2.5em;
+}
+
+hr {
+    border: 0.5px dashed black;
+    clear: left;
+}
+
+.work-section-hr {
+    margin-bottom: 1em;
 }
 
 /* Container for content on "work" pages */
@@ -134,14 +143,13 @@ a:hover {
     clear: left;
     text-align: left;
     padding-top: 0.5em;
-    margin-bottom: 0.5em;
-    /* border: 1px solid black; */
+    margin-bottom: 1.0em;
 }
 
 .info-header {
     font-size: 1.0em;
     font-variant: small-caps;
-    margin-bottom: 0.5em;
+    margin-bottom: 0.3em;
 }
 
 .info-body {
@@ -194,5 +202,5 @@ a:hover {
     text-align: center;
     color: black;
     clear: both;
-    padding: 3em;
+    padding: 0em;
 }

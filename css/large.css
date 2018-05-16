@@ -21,11 +21,6 @@
     font-size: 1.75em;
 }
 
-.work-left-side {
-    width: 50%;
-    /* background: #F99; */
-}
-
 .work-description {
 
 }
@@ -39,8 +34,8 @@
 }
 
 .info-item {
-    width: 30%;
-    /* text-align: center; */
+    width: 50%;
+    margin-right: 0%;
     float: left;
     clear: none;
 }
@@ -50,7 +45,11 @@
 }
 
 .info-body {
-    font-size: 2em;
+    font-size: 1.8em;
+}
+
+.needs-own-line-on-large {
+    clear: left;
 }
 
 .official-site {

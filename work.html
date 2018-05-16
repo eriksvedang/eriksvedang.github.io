@@ -7,28 +7,30 @@ title: Work
 {% include menu.html %}
 
 <div class="section">
-  <!-- <h2>Video Games</h2> -->
-  <!-- <hr> -->
+  <h2>Video Games</h2>
+  <hr class="work-section-hr">
   {% for post in site.tags['major-digital'] %}
   {% include brick.html %}
   {% endfor %}
 </div>
 
 <div class="space"></div>
+<!-- <hr class="work-section-hr"> -->
 
 <div class="section">
-  <!-- <h2>Board Games</h2> -->
-  <!-- <hr> -->
+  <h2>Board Games</h2>
+  <hr class="work-section-hr">
   {% for post in site.tags['major-analog'] %}
   {% include brick.html %}
   {% endfor %}
 </div>
 
 <div class="space"></div>
+<!-- <hr class="work-section-hr"> -->
 
 <div class="section">
-  <!-- <h2>Jam Games</h2> -->
-  <!-- <hr> -->
+  <h2>Events</h2>
+  <hr class="work-section-hr">
   {% for post in site.tags['event'] %}
   {% include brick.html %}
   {% endfor %}

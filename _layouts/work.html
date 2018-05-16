@@ -10,9 +10,12 @@ layout: main
 
 <div class="work">
 
-  {% if page.image %}
-  <img class="main-illustration" src='/img/{{page.image}}'>
-  {% endif %}
+  <div class="work-right-side">
+
+    {% if page.image %}
+    <img class="main-illustration" src='/img/{{page.image}}'>
+    {% endif %}
+  </div>
 
   <div class="work-left-side">
 
@@ -26,17 +29,19 @@ layout: main
       <div class="info-body">{{page.platforms}}</div>
     </div>
 
-    <div class="info-item">
-      <div class="info-header">Available from</div>
-      <a href="{{page.available-link}}"><div class="info-body">{{page.available}}</div></a>
-    </div>
-
-    <hr>
+    <!-- <div class="info-item"> -->
+    <!--   <div class="info-header">Available from</div> -->
+    <!--   <a href="{{page.available-link}}"><div class="info-body">{{page.available}}</div></a> -->
+    <!-- </div> -->
 
     {% if page.official-site %}
-    <a class="official-site" href="http://{{page.official-site}}">{{page.official-site}}</a>
-    <!-- <hr> -->
+    <div class="info-item needs-own-line-on-large">
+      <div class="info-header">Official Site</div>
+      <a class="info-body" href="http://{{page.official-site}}">{{page.official-site}}</a>
+    </div>
     {% endif %}
+
+    <hr>
 
     <div class="work-description">
       {{content}}

@@ -22,7 +22,14 @@
 }
 
 .work-left-side {
-    width: 50%;
+    width: 48%;
+    /* background: #F99; */
+}
+
+.work-right-side {
+    width: 48%;
+    float: right;
+    /* background: #99F; */
 }
 
 .work-description {
@@ -30,9 +37,9 @@
 }
 
 .main-illustration {
-    width: calc(50% - 20px);
-    margin: 0px;
-    float: right;
+    /* width: calc(50% - 20px); */
+    /* margin: 0px; */
+    /* float: right; */
 }
 
 .article {
