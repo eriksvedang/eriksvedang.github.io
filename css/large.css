@@ -22,7 +22,7 @@
 }
 
 .work-left-side {
-    /* max-width: 500px; */
+    width: 50%;
 }
 
 .work-description {
@@ -39,17 +39,12 @@
     column-count: 3;
 }
 
-.infos {
-    margin-bottom: 1em;
-    border: 1px solid black;
-}
-
 .info-item {
     /* border: 1px solid black; */
+    width: 30%;
     text-align: center;
-    width: 15%;
-    padding-top: 2em;
-    height: 100px;
+    /* padding-top: 2em; */
+    /* height: 100px; */
 }
 
 .info-header {
@@ -57,5 +52,9 @@
 }
 
 .info-body {
+    font-size: 2em;
+}
+
+.official-site {
     font-size: 2em;
 }

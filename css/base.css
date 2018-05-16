@@ -102,7 +102,7 @@ a:hover {
 }
 
 .work-left-side {
-    /* background: red; */
+    width: 100%;
 }
 
 .work-left-side hr {
@@ -111,6 +111,7 @@ a:hover {
 
 .work-description {
     width: 100%;
+    float: left;
 }
 
 .main-illustration {
@@ -118,20 +119,21 @@ a:hover {
 }
 
 .official-site {
-    width: 40%;
-    padding: 1em;
+    width: 100%;
     float: left;
     text-align: center;
-    font-size: 2em;
+    padding: 0em 0em;
+    font-size: 1.5em;
     font-family: 'Abril Fatface';
+    border: 1px solid black;
 }
 
 .info-item {
-    width: 100%;
     float: left;
     text-align: left;
     padding-top: 0.5em;
     margin-bottom: 0.5em;
+    /* border: 1px solid black; */
 }
 
 .info-header {
@@ -143,6 +145,7 @@ a:hover {
 .info-body {
     font-size: 1.8em;
     font-family: 'Abril Fatface';
+    display: inline-block;
 }
 
 /* Container for content on "article" pages */
