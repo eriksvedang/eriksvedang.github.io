@@ -111,7 +111,8 @@ a:hover {
 
 .work-description {
     width: 100%;
-    float: left;
+    /* float: left; */
+    display: inline-block;
 }
 
 .main-illustration {
@@ -125,11 +126,12 @@ a:hover {
     padding: 0em 0em;
     font-size: 1.5em;
     font-family: 'Abril Fatface';
-    border: 1px solid black;
+    margin: 0.5em 0em 1em 0em;
 }
 
 .info-item {
     float: left;
+    clear: left;
     text-align: left;
     padding-top: 0.5em;
     margin-bottom: 0.5em;

@@ -21,37 +21,20 @@
     font-size: 1.7em;
 }
 
+.work-left-side {
+    width: 50%;
+}
+
 .work-description {
-    margin-top: 2em;
+
 }
 
 .main-illustration {
-    width: 50%;
+    width: calc(50% - 20px);
+    margin: 0px;
     float: right;
-    margin-left: 50px;
 }
 
 .article {
     column-count: 2;
 }
-
-/* .infos { */
-/*     margin-bottom: 1em; */
-/*     border: 1px solid black; */
-/* } */
-
-/* .info-item { */
-/*     /\* border: 1px solid black; *\/ */
-/*     text-align: center; */
-/*     width: 14%; */
-/*     padding-top: 2em; */
-/*     height: 100px; */
-/* } */
-
-/* .info-header { */
-/*     /\* font-size: 2em; *\/ */
-/* } */
-
-/* .info-body { */
-/*     font-size: 1.5em; */
-/* } */

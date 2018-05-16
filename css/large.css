@@ -23,16 +23,15 @@
 
 .work-left-side {
     width: 50%;
+    /* background: #F99; */
 }
 
 .work-description {
-    margin-top: 2em;
+
 }
 
 .main-illustration {
-    width: 50%;
-    float: right;
-    margin-left: 50px;
+
 }
 
 .article {
@@ -40,11 +39,10 @@
 }
 
 .info-item {
-    /* border: 1px solid black; */
     width: 30%;
-    text-align: center;
-    /* padding-top: 2em; */
-    /* height: 100px; */
+    /* text-align: center; */
+    float: left;
+    clear: none;
 }
 
 .info-header {

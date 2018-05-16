@@ -16,10 +16,7 @@ available: Nope
 
 ---
 
-Slice & Dice is a minimalistic card game designed by me with illustrations by Nicolai Troshinsky. Over the span of five rounds the players build up their troops and fighting power to win treasure in battle. With just two decks of cards and some dice this game is packing strategic and novel gameplay into quite a small box.
+Have you been waiting for a game that is catering to the iPad’s unique strengths as a beautiful social gaming platform of the future?
+Wait no more! Shot Shot Shoot represents a new way of playing games with your friends, combining the magic of computers with the special interactions made possible by board games.
 
-The game is for two players and takes about 30 – 45 minutes to play.
-
-We’re currently looking for a publisher for the game, contact me if you can help.
-
-These prototypes have been printed by the awesome site The Game Crafter that lets anyone make and print their own board games. I highly recommend them!
+The goal of the game is simple: destroy the five squares on the opponent’s side of the board. Maneuver single shots with high precision or overwhelm the other player with massive attack waves — a mixture of fast-paced gameplay and deep strategy that everyone seems to love.
