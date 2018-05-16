@@ -45,3 +45,8 @@
 .article {
     column-count: 2;
 }
+
+.email-footer {
+    margin: 2em;
+    font-size: 2em;
+}

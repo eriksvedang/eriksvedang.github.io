@@ -191,10 +191,9 @@ hr {
 
 /* Email footer */
 .email-footer {
-    font-size: 2em;
     text-align: center;
     color: gray;
-    margin: 2em;
+    font-size: 1.3em;
 }
 
 .copyright {
