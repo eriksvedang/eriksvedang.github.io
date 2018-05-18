@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Else { Heart.Break() }
+title: Else Heart.Break()
 subtitle: a hacking adventure
 image: Dot.jpg
 color: '#F5C'
