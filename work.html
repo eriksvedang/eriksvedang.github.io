@@ -15,8 +15,6 @@ title: Work
 </div>
 
 <div class="space"></div>
-<!-- <hr class="work-section-hr"> -->
-
 <div class="section">
   <h2>Board Games</h2>
   <hr class="work-section-hr">
@@ -26,8 +24,24 @@ title: Work
 </div>
 
 <div class="space"></div>
-<!-- <hr class="work-section-hr"> -->
+<div class="section">
+  <h2>Game Jam Games</h2>
+  <hr class="work-section-hr">
+  {% for post in site.tags['jam'] %}
+  {% include brick.html %}
+  {% endfor %}
+</div>
 
+<div class="space"></div>
+<div class="section">
+  <h2>Programming</h2>
+  <hr class="work-section-hr">
+  {% for post in site.tags['programming'] %}
+  {% include brick.html %}
+  {% endfor %}
+</div>
+
+<div class="space"></div>
 <div class="section">
   <h2>Events</h2>
   <hr class="work-section-hr">
