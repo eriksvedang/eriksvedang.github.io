@@ -43,6 +43,15 @@ title: Work
 
 <div class="space"></div>
 <div class="section">
+  <h2>Art</h2>
+  <hr class="work-section-hr">
+  {% for post in site.tags['art'] %}
+  {% include brick.html %}
+  {% endfor %}
+</div>
+
+<div class="space"></div>
+<div class="section">
   <h2>Events</h2>
   <hr class="work-section-hr">
   {% for post in site.tags['event'] %}
