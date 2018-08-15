@@ -12,14 +12,12 @@ tags: [major-digital, ios, pc]
 
 released: In beta
 platforms: Windows, Linux & Mac
-available: www.gameofclairvoyance.com
 
+official-site: www.gameofclairvoyance.com
 ---
 
-Slice & Dice is a minimalistic card game designed by me with illustrations by Nicolai Troshinsky. Over the span of five rounds the players build up their troops and fighting power to win treasure in battle. With just two decks of cards and some dice this game is packing strategic and novel gameplay into quite a small box.
+Initially designed by me as a board game in the spring of 2011, later to be digitized by Johannes Gotlén (programming), Niklas Åkerblad (art), Oscar Rydelius (sound), and me (programming and design).
 
-The game is for two players and takes about 30 – 45 minutes to play.
+It's a 2-player game similar to chess, except that both players plan five moves ahead (secretely) and then watch them play out. There are various attacks available and a whole slew of (destructible!) levels in various configurations.
 
-We’re currently looking for a publisher for the game, contact me if you can help.
-
-These prototypes have been printed by the awesome site The Game Crafter that lets anyone make and print their own board games. I highly recommend them!
+At its peak there were quite a few players playing the game, making it easy to find opponents. Nowadays it's harder but if you and a friend buy the game you can always just play with each other. The servers are still running and everything works well. Our goal has always been to publish the game for iPad (since it has the perfect form factor for making secret moves). Hopefully one day it will happen...
