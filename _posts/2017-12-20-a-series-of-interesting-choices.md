@@ -5,7 +5,7 @@ title: A Series of Interesting Choices
 subtitle:
 
 image: InterestingChoices.jpg
-color: '#FFF'
+color: '#3B5'
 
 permalink: interesting-choices
 tags: [major-analog]
