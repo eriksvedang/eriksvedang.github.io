@@ -19,7 +19,9 @@ available-link: https://store.steampowered.com/app/29160/
 
 Blueberry Garden is a short experimental game about curiosity and exploration. You take on the role of a creature investigating a mysterious world to find out what is going on there. It’s probably not very much like anything you’ve played before but I hope you will find it enjoyable!
 
-Awarded with IGF:s Seamus mcNally Grand Prize, 2009.
+Awarded with IGF:s Seamus mcNally Grand Prize 2009.
+
+You can buy it from [Steam](https://store.steampowered.com/app/29160/).
 
 <!-- # Released -->
 <!-- June 1, 2009 -->

@@ -28,6 +28,18 @@ a {
     text-decoration: none;
 }
 
+ul {
+    font-size: 1.3em;
+    line-height: 1.5em;
+    margin-bottom: 1.0em;
+    list-style: circle;
+    margin-left: 1.0em;
+}
+
+li {
+    margin-bottom: 0.4em;
+}
+
 a:hover {
     text-decoration: underline;
 }

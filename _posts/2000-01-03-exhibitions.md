@@ -15,4 +15,7 @@ Here's a list of places where my work has been exhibited:
 - Hjärta Spel, Linköping, Sweden (2012)
 - Game Masters Exhibition, Sydney, Australia (2013)
 - Hjärta Spel, Tekniska Museet, Stockholm,  Sweden (2013)
+- A MAZE, Berlin, Germany (2015)
 - Game Masters Exhibition, Halmstad, Sweden (2015)
+
+If you know of some exhibition I've forgotten to list here, please [let me know](/contact)...
