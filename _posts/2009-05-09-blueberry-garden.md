@@ -11,7 +11,7 @@ images:
  - varelser.jpg
  - ekosystem.jpg
 
-color: '#19F'
+color: '#EEF'
 
 permalink: blueberry-garden
 tags: [major-digital, pc]
