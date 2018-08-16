@@ -24,6 +24,7 @@
 .work-left-side {
     width: 48%;
     /* background: #F99; */
+    float: left;
 }
 
 .work-right-side {

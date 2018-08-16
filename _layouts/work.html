@@ -10,18 +10,6 @@ layout: main
 
 <div class="work">
 
-  <div class="work-right-side">
-
-    <!-- {% if page.image %} -->
-    <!-- <img class="main-illustration" src='/img/{{page.image}}'> -->
-    <!-- {% endif %} -->
-
-    {% for img in page.images %}
-    <img class="extra-illustration" src='/img/{{img}}'>
-    {% endfor %}
-
-  </div>
-
   <div class="work-left-side">
 
     <div class="info-item">
@@ -51,6 +39,18 @@ layout: main
     <div class="work-description">
       {{content}}
     </div>
+
+  </div>
+
+  <div class="work-right-side">
+
+    <!-- {% if page.image %} -->
+    <!-- <img class="main-illustration" src='/img/{{page.image}}'> -->
+    <!-- {% endif %} -->
+
+    {% for img in page.images %}
+    <img class="extra-illustration" src='/img/{{img}}'>
+    {% endfor %}
 
   </div>
 
