@@ -5,6 +5,12 @@ title: Blueberry Garden
 subtitle: curiosity and exploration in a hand drawn world
 
 image: BlueberryGarden.jpg
+images:
+ - original-concept-a.jpg
+ - original-concept-b.jpg
+ - varelser.jpg
+ - ekosystem.jpg
+
 color: '#19F'
 
 permalink: blueberry-garden
