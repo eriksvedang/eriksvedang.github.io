@@ -20,7 +20,7 @@ released: In development
 platforms: Boardgame
 available: Nope
 
-official-site: https://eriksvedang.github.io/aseriesofinterestingchoices/
+official-site: eriksvedang.github.io/aseriesofinterestingchoices/
 
 ---
 

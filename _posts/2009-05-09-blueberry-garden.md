@@ -6,6 +6,10 @@ subtitle: curiosity and exploration in a hand drawn world
 
 image: BlueberryGarden.jpg
 images:
+ - BBG3.jpg
+ - BBG2.jpg
+ - BBG4.jpg
+ - BBG1.jpg
  - original-concept-a.jpg
  - original-concept-b.jpg
  - varelser.jpg
@@ -21,13 +25,13 @@ platforms: Windows, Linux & Mac
 available: Steam
 available-link: https://store.steampowered.com/app/29160/
 
+official-site: store.steampowered.com/app/29160/
+
 ---
 
-Blueberry Garden is a short experimental game about curiosity and exploration. You take on the role of a creature investigating a mysterious world to find out what is going on there. It’s probably not very much like anything you’ve played before but I hope you will find it enjoyable!
+Blueberry Garden is an experimental game about curiosity and exploration. You take on the role of a creature investigating a mysterious world to find out what is going on there. It’s probably not very much like anything you’ve played before but I hope you will find it enjoyable!
 
-Awarded with IGF:s Seamus mcNally Grand Prize 2009.
-
-You can buy it from [Steam](https://store.steampowered.com/app/29160/).
+Awarded with IGF:s Seamus mcNally Grand Prize, 2009.
 
 <!-- # Released -->
 <!-- June 1, 2009 -->
