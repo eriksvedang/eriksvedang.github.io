@@ -29,6 +29,11 @@
 
 }
 
+.extra-illustration {
+    width: 45%;
+    margin: 1%;
+}
+
 .article {
     column-count: 3;
 }

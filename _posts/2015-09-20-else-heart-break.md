@@ -3,6 +3,11 @@ layout: work
 title: Else Heart.Break()
 subtitle: a hacking adventure
 image: Dot.jpg
+images:
+ - EHB1.jpg
+ - EHB2.jpg
+ - EHB3.jpg
+ - EHB4.jpg
 color: '#F5C'
 permalink: else-heart-break
 tags: [major-digital, pc]
