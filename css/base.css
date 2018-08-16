@@ -17,6 +17,12 @@ h2 {
     font-weight: bold;
 }
 
+h3 {
+    font-size: 1.3em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+}
+
 p {
     font-size: 1.3em;
     line-height: 1.5em;
@@ -38,6 +44,10 @@ ul {
 
 li {
     margin-bottom: 0.4em;
+}
+
+em {
+    font-style: italic;
 }
 
 a:hover {
