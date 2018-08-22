@@ -22,6 +22,10 @@ When on the topic of programming and math &mdash; [this video series on linear a
 
 For those who plan on travelling the long and winding road that is game programming, the free web book [Patterns of game programming](http://gameprogrammingpatterns.com/contents.html) is a good read. The author's new article series on [how to implement a programming language](http://craftinginterpreters.com) is just as clear and enthusiastic. If that sounds like a nice way to spend your time, you definitely should read [the best programming book ever written](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html). Be warned though, this is a deep rabbit hole that you might never escape. Perhaps you will make something slightly [esoteric](http://esoteric.codes).
 
+Oh, and the first (?) wiki is also [worth a visit](http://wiki.c2.com).
+
+Now I know I said that I like simple and static websites, but I do read some blogs too &mdash; especially those with lots of pretty pictures. My favourites are [It's Nice That](https://www.itsnicethat.com), [Colossal](https://www.thisiscolossal.com) and [But Does it Float](https://butdoesitfloat.com).
+
 In my practice of designing board games, [The Game Crafter](https://thegamecrafter.com) has been of tremendous value for producing near-professional looking prototypes. For more general game parts like tokens and blank cards I've also enjoyed placing big orders with the German specialist [spielmaterial.de](http://spielmaterial.de). Speaking of board games and craft, these [hand made games from Crete](https://tetraktis-studio.gr/en/portfolio-item/board-game/) are really inspiring and I hope to acquire some of their works one day.
 
 If you haven't guessed already, I'm pretty into playing cards. The japanese kind ("Hanafuda") are some of the most beautiful ones and the article [The Flowers of Hanafuda](https://namakajiri.net/nikki/the-flowers-of-hanafuda/) explains what flowers they contain.

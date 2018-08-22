@@ -6,7 +6,7 @@ color: '#F55'
 tags: [info]
 ---
 
-Here's a list of places where my work has been exhibited:
+Here's a list with some of places where my work has been exhibited:
 
 - Mediateca Expandica, Madrid, Spain (2009)
 - Art Center Nabi, A.L.I.C.E. museum, Seoul, South Korea (2009)
