@@ -6,7 +6,7 @@ color: '#3BF'
 tags: [article]
 ---
 
-([This article was first published at Gamasutra back in 2010](https://www.gamasutra.com/view/feature/132710/creating_blueberry_garden.php))
+[This article was first published by Gamasutra in 2010.](https://www.gamasutra.com/view/feature/132710/creating_blueberry_garden.php)
 
 I was a bit reluctant to write this text at first, since I don't think I'm the best person to pick my own game apart. I'm a creator, and not a game critic, and obviously what I'm going to write about lies too close to my heart for me to really see it clearly.
 
@@ -23,8 +23,6 @@ In other words, she would have total control over the actions of the player char
 I started the actual production in early 2008 as a part of my final thesis at the bachelor degree Game Design program in Skövde that I went to at the time. As I worked along on my game and people got hold of the trailer and my working version, it became increasingly clear that I could not look at my work as completely academic or self-fulfilling. I realized that people would actually want to play my creation (and even pay money for it -- gasp!)
 
 This of course presented me with some interesting problems, mainly concerning the length of the game. This text aims to look at these two main parts of the game (the ecosystem and the interactive storytelling) in separation to see how well they work on their own. After that I will discuss how they combine into a game and how they represent some possibilities for creating meaning through interaction.
-
-
 
 ## The ecosystem
 

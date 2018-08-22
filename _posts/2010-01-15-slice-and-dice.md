@@ -5,6 +5,12 @@ title: Slice & Dice
 subtitle:
 
 image: SliceAndDice.jpg
+images:
+ - Slice5.jpg
+ - Slice2.jpg
+ - Slice3.jpg
+ - Slice4.jpg
+
 color: '#1F9'
 
 permalink: slice-and-dice

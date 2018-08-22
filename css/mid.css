@@ -43,6 +43,10 @@
     /* float: right; */
 }
 
+.extra-illustration {
+    width: 100%;
+}
+
 .article {
     column-count: 2;
 }

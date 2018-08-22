@@ -5,14 +5,19 @@ title: Shot Shot Shoot
 subtitle:
 
 image: ShotShotShoot.jpg
+images:
+ - Shoot1.png
+ - Shoot4.png
+ - Shoot2.png
+ - Shoot3.png
+
 color: '#1FF'
 
 permalink: shot-shot-shoot
 tags: [major-digital, ios]
 
-released: In development
-platforms: Boardgame
-available: Nope
+released: June 2010
+platforms: iOS
 
 ---
 
