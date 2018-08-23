@@ -14,6 +14,21 @@
     <link rel="stylesheet" type="text/css" href="/css/mid.css" media="all and (min-width: 700px)">
     <link rel="stylesheet" type="text/css" href="/css/large.css" media="all and (min-width: 1200px)">
 
+    <script>
+      function gotoOldWebsite() {
+      var pathArray = location.href.split( '/' );
+      var sum = ""
+      if(pathArray.length > 3) {
+        for(i = 3; i < pathArray.length; i++) {
+          sum += pathArray[i];
+        }
+      }
+      var url = "https://eriksvedang.wordpress.com/" + sum;
+      var win = window.open(url, '_blank');
+      win.focus();
+      }
+    </script>
+
   </header>
   <body>
     <div class="page">
