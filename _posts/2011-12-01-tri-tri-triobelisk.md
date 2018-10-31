@@ -6,10 +6,10 @@ subtitle:
 
 image: TriTriTriobelisk.jpg
 images:
- - Tri1.jpeg
- - Tri2.jpeg
- - Tri4.jpeg
- - Tri3.jpeg
+ - Tri1.jpg
+ - Tri2.jpg
+ - Tri4.jpg
+ - Tri3.jpg
 
 color: '#19F'
 
