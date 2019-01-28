@@ -19,6 +19,9 @@ layout: null
             <guid>
                 {{ post.url | prepend: site.url }}
             </guid>
+            <link>
+                {{ post.url | prepend: site.url }}
+            </link>
         </item>
         {% endfor %}
     </channel>
