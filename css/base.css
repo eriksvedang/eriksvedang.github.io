@@ -42,6 +42,14 @@ ul {
     margin-left: 1.0em;
 }
 
+ol {
+    font-size: 1.3em;
+    line-height: 1.5em;
+    margin-bottom: 1.0em;
+    list-style: decimal;
+    margin-left: 1.0em;
+}
+
 li {
     margin-bottom: 0.4em;
 }
