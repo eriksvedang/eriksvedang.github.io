@@ -21,6 +21,7 @@ platforms: Boardgame
 available: Nope
 
 official-site: eriksvedang.github.io/aseriesofinterestingchoices/
+official-site-name: The ASOIC Website
 
 ---
 

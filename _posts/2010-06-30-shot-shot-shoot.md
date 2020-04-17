@@ -18,9 +18,10 @@ tags: [major-digital, ios]
 
 released: June 2010
 platforms: iOS
-available-link: https://apps.apple.com/se/app/shot-shot-shoot/id384423051
+available-link: apps.apple.com/se/app/shot-shot-shoot/id384423051
 
-official-site: https://apps.apple.com/se/app/shot-shot-shoot/id384423051
+official-site: apps.apple.com/se/app/shot-shot-shoot/id384423051
+official-site-name: App Store
 
 ---
 

@@ -19,6 +19,7 @@ available: Steam
 available-link: https://store.steampowered.com/app/400110
 
 official-site: www.elseheartbreak.com
+official-site-name: www.elseheartbreak.com
 
 ---
 

@@ -26,6 +26,7 @@ available: Steam
 available-link: https://store.steampowered.com/app/29160/
 
 official-site: store.steampowered.com/app/29160/
+official-site-name: Steam Page
 
 ---
 

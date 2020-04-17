@@ -20,6 +20,8 @@ released: In beta
 platforms: Windows, Linux & Mac
 
 official-site: www.gameofclairvoyance.com
+official-site-name: www.gameofclairvoyance.com
+
 ---
 
 Initially designed by me as a board game in the spring of 2011, later to be digitized by Johannes Gotlén (programming), [Niklas Åkerblad](http://elhuervo.tumblr.com) (art), [Oscar Rydelius](http://www.soundproof.se) (sound), and me (programming and design).

@@ -21,7 +21,8 @@ platforms: iOS
 available: iTunes
 available-link: https://apps.apple.com/se/app/tri-tri-triobelisk/id428470159
 
-official-site: https://apps.apple.com/se/app/tri-tri-triobelisk/id428470159
+official-site: apps.apple.com/se/app/tri-tri-triobelisk/id428470159
+official-site-name: App Store
 
 ---
 
