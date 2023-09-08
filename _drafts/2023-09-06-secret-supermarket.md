@@ -1,18 +1,4 @@
-# Announcements
-
-Hi! Today I'm announcing two things:
-
-# My return to full-time indie game development
-
-For the last three years I've been working for a startup called
-[coherence](https://coherence.io), creating a toolkit for multiplayer
-games. It has been a lot of fun, and I've learned a lot about
-networking and how to make online games from some amazing people. But
-while making tools for others is certainly very enjoyable, my true
-passion is to work on my own game designs. So back to being an indie
-game developer it is!
-
-# A new label for digital board games
+# Secret Supermarket
 
 Historically, the games I've released spans a pretty wide range; from
 experimental narrative "experiences" to hard-core 2-player
@@ -26,9 +12,7 @@ deep and strategic games with lots of player interaction. My goal is
 to build a community around this label, and to develop its games in an
 open way with a lot of feedback from that community.
 
-The name of the label is 'Verde' which is inspired by [Vinho Verde]
-(delicious). Hopefully the games I make will have the same freshness
-and vigor as the wine!
+The name of the label is _*Secret Supermarket*_.
 
 For other kinds of projects, e.g. narrative games or art pieces, I
 will not use any label. Regarding my latest project [Ord](), it is
