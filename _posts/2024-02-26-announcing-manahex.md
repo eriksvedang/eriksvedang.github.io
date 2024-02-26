@@ -12,7 +12,7 @@ truly.
 
 You can read more about the gameplay on the [Steam page](https://store.steampowered.com/app/2774650/Manahex/).
 
-Please wishlist! <3
+Wishlisting is appreciated! <3
 
 Here's the trailer:
 
