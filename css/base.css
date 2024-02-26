@@ -234,3 +234,8 @@ hr {
     clear: both;
     padding: 1em;
 }
+
+.youtube-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
