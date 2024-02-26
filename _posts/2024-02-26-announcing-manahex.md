@@ -11,7 +11,8 @@ digital card game designed, programmed, scored and painted by yours
 truly. If all goes well, it will be released this spring.
 
 You can read more about the gameplay on the [Steam
-page](https://store.steampowered.com/app/2774650/Manahex/). Wishlisting is appreciated! <3
+page](https://store.steampowered.com/app/2774650/Manahex/). Wishlisting
+is much appreciated! <3
 
 Here's a trailer:
 
