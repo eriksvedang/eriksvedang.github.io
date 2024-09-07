@@ -239,3 +239,8 @@ hr {
   aspect-ratio: 16 / 9;
   width: 100%;
 }
+
+.first-letter {
+  font-size: 35px;
+  line-height: 70px;
+}
