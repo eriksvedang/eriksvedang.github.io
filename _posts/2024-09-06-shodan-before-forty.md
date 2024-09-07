@@ -1,21 +1,22 @@
 ---
-layout: note
+layout: article
 title: Shodan before 40?
 image: Shodan.jpg
 color: '#FFC'
-tags: [blog, note]
+tags: [blog, article]
 ---
 
-*Part of the woodcut 'Raikō shitennō to tsuchigumo' by Kuninaga Utagawa.*
+*The illustration is a part of the woodcut 'Raikō shitennō to tsuchigumo' by Kuninaga Utagawa.*
 
-I just turned 38, which if we're being honest is a pretty boring
-birthday. In between taking care of ones kids and working on new
-games, it's the kind of thing that easily gets a bit
-neglected. But there has been *one* thing that I have been thinking about in
-anticipation of this birthday – a kind of bet with myself that I
+I just turned 38 which, I assume, for most people isn't the most
+exciting of birthdays. In between taking care of ones kids and working
+on new games, it's the kind of thing that easily gets a bit
+neglected. But there has been *one* thing that I have been thinking
+about in anticipation of this day – a kind of bet with myself that I
 came up with a couple of years ago...
 
-The thing is, I've been playing this game, [Go](https://en.m.wikipedia.org/wiki/Go_(game)), quite seriously since
+The thing is, I've been playing
+[Go](https://en.m.wikipedia.org/wiki/Go_(game)), quite seriously since
 I was 18, or so. As a kid I used to read any book I could find about
 board games, so I actually did learn the game a few years earlier, but
 it wasn't until I started [university](https://www.his.se/dataspel)
@@ -24,12 +25,12 @@ That inspired me to become a lot more serious with the game. I started
 playing online on Go-servers, read books about strategy, study old
 games, and so on.
 
-For those unware, anyone who is even just a little serious about Go also keeps
-track of their
+For those unware, anyone who is even just a little serious about Go
+also keeps track of their
 [rank](https://en.m.wikipedia.org/wiki/Go_ranks_and_ratings) through a
 system similar to the ones used in various martial arts. You start at
-30 kyu, and work your way downwards to 1. Knowing your rank is very useful,
-because it also tells you what advantage (or 'handicap') the
+30 kyu, and work your way downwards to 1. Knowing your rank is very
+useful, because it also tells you what advantage (or 'handicap') the
 weaker player should get to make the game even. For example, between
 two players of rank 10 kyu and 14 kyu there's a difference of four, so
 the weaker player should start with four stones on the board –
@@ -41,8 +42,8 @@ it based on wins and losses. This works very much like
 [Elo](https://sv.wikipedia.org/wiki/Elo-rating) on Chess servers and
 in other competitive games. When you play casually against others, you
 often state the rank you believe that you have – to find a suitable
-opponent at the club, or just to get a feel for how
-deep someones understanding of the game is.
+opponent at the club, or just to get a feel for how deep someones
+understanding of the game is.
 
 So the rank starts at 30 and goes downwards... but what happens when
 you reach 1 kyu, you might ask? That's when the ranking scale switches
