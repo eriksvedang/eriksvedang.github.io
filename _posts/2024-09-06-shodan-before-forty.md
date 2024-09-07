@@ -1,37 +1,40 @@
 ---
-layout: article
+layout: note
 title: Shodan before 40?
 image: Shodan.jpg
 color: '#FFC'
 tags: [blog, article]
 ---
 
-*The illustration is a part of the woodcut 'Raikō shitennō to tsuchigumo' by Kuninaga Utagawa.*
+*The illustration is a part of the woodcut 'Raikō shitennō to
+tsuchigumo' by Utagawa Kuninaga.*
 
-I just turned 38 which, I assume, for most people isn't the most
-exciting of birthdays. In between taking care of ones kids and working
-on new games, it's the kind of thing that easily gets a bit
-neglected. But there has been *one* thing that I have been thinking
-about in anticipation of this day – a kind of bet with myself that I
-came up with a couple of years ago...
+Earlier this week I turned 38 years old. Not the most exciting
+birthday, if you ask me. And in many ways it passed by in a quite
+unremarkable fashion – taking the kids to school, working on my
+games. Still, this birthday had an additional meaning to me, something
+that gave it a certain significance in my mind:
 
-The thing is, I've been playing
-[Go](https://en.m.wikipedia.org/wiki/Go_(game)), quite seriously since
-I was 18, or so. As a kid I used to read any book I could find about
-board games, so I actually did learn the game a few years earlier, but
+*"Only two years left."*
+
+No, this has nothing to do with the expected length of my life (I
+hope). Rather, what I want to write about is a bet I made with myself
+a couple of years ago...
+
+[Go](https://en.m.wikipedia.org/wiki/Go_(game)) is an ancient game
+from China. I learned about it from a book when I was around 14, but
 it wasn't until I started [university](https://www.his.se/dataspel)
-that I met other people who played. Some of them were even very good!
+that I met other people who played, some of them were even very good.
 That inspired me to become a lot more serious with the game. I started
 playing online on Go-servers, read books about strategy, study old
-games, and so on.
+masters, and so on.
 
-For those unware, anyone who is even just a little serious about Go
-also keeps track of their
-[rank](https://en.m.wikipedia.org/wiki/Go_ranks_and_ratings) through a
+For those unware, people who play Go usually keep track of their
+[rank](https://en.m.wikipedia.org/wiki/Go_ranks_and_ratings) using a
 system similar to the ones used in various martial arts. You start at
-30 kyu, and work your way downwards to 1. Knowing your rank is very
+30 *kyu*, and work your way downwards to 1 kyu. Knowing your rank is very
 useful, because it also tells you what advantage (or 'handicap') the
-weaker player should get to make the game even. For example, between
+weaker player should get to make for an even game. For example, between
 two players of rank 10 kyu and 14 kyu there's a difference of four, so
 the weaker player should start with four stones on the board –
 effectively four free moves. This is called being "four stones
@@ -50,18 +53,35 @@ you reach 1 kyu, you might ask? That's when the ranking scale switches
 to something called 'dan' and start counting up instead. So someone
 that is one stone stronger than 1 kyu is 1 dan, then 2 dan, 3 dan, and
 so on all the way up to 9 dan. Having the rank 1 dan is also called
-*Shodan*, which translates to something like "first rank". It's a very
-interesting name, because it sounds a lot like where you would
-actually start as a beginner. That mirrors the thinking in for example
-Karate, where one could for example say something like "Shodan is the
-true beginning of Karate". In other words, it isn't until you've
-reached dan level that you understand anything about the true spirit
-of the game.
+*shodan*, which translates to something like "first rank".
+
+This is quite an interesting name, because without any context it kind
+of sounds like the rank you'd start with, as a beginner. That mirrors
+the thinking in for example Karate, where one could for example say
+something like "Shodan is the true beginning of Karate". In other
+words, it isn't until you've reached dan level that you actually start
+playing the game *for real*.
 
 Now, I'm not entirely sure about this sentiment. A good game is
-ideally fun even before you've sunk thousands of hours into it, and Go
-is a very good game indeed.
+ideally fun even when you're not that experienced, and Go is a very
+good game indeed. Still, there's a common conception among players
+that you want to reach 1 dan at some point. At the very least it's a
+good goal to have, something to strive for.
 
-Which is what this is all about. The thing is that I haven't reached
-Shodan yet. I've played a game for 20+ years and I'm still not even
-good enough to be classified as a "beginner"!
+So how long does it take to reach shodan? Some people achieve it
+within a year after they start playing. Others, like me, haven't
+reached it yet. A few years ago this started to bother me properly. I
+realized that I have played a game (that I love) for about two
+decades, and I was still threading water.
+
+I decided to give myself a deadline; I wanted to reach shodan before I
+turned 40. This felt like a realistic goal. At the time I was maybe 5
+kyu and felt that I was improving, although slowly. I tried to
+practice more, but life has a way of getting in ones way. I started to
+feel anxious about playing, the fear of losing was strong. At some
+point I decided that the key to improving is to play a lot more
+games. A problem with Go is that a game can be quite long. To get more
+plays in I started to play quick games online. This was a terrible
+idea, I ran out of thinking time a lot and the stress made me play
+really badly. I started losing against people with much lower ranks,
+which made my own rank decrease rapidly. It was not a great feeling.
