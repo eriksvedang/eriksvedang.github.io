@@ -32,9 +32,9 @@ to become a lot more serious with the game.
 I started playing online,
 read strategy books, studied old masters, and so on.
 
-For those unware, people who play Go usually keep track of their
+For those unware, Go players usually keep track of their
 [rank](https://en.m.wikipedia.org/wiki/Go_ranks_and_ratings) using a
-system similar to the ones used in various martial arts. You start at
+system similar to the ones in martial arts, e.g. Karate. You start at
 30 *kyu*, and work your way downwards to 1 kyu. Knowing your rank is
 very useful, because it also tells you what advantage (or 'handicap')
 the weaker player should get to make for an even game. For example,
