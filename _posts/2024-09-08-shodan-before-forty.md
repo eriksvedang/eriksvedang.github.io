@@ -16,7 +16,7 @@ it a certain significance in my mind:
 *"Only two years left."*
 
 No, this has nothing to do with my expected lifespan (I hope). Rather,
-what I couldn't get out of my mind was this bet I made with myself a
+what I couldn't stop thinking about was this bet I made with myself a
 couple of years ago. But let's start at the beginning.
 
 *Go* is a completely fascinating game (check out its [wikipedia
