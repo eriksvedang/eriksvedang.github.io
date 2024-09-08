@@ -9,23 +9,21 @@ tags: [blog, note]
 *The woodcut 'Raikō shitennō to
 tsuchigumo' by Utagawa Kuninaga.*
 
-Earlier this week I turned 38. It's not a very exciting number. Yet,
-this birthday had an additional meaning to me. Something that gave
+Earlier this week I turned 38. It's not a very exciting age, I know. But
+this birthday had an additional meaning to me. Something secret that gave
 it a certain significance in my mind:
 
 *"Only two years left."*
 
 No, this has nothing to do with my expected lifespan (I hope). Rather,
-what I couldn't stop thinking about was this bet I made with myself a
+what I couldn't stop thinking about was a bet I made with myself a
 couple of years ago. But let's start at the beginning.
 
 *Go* is a completely fascinating game (check out its [wikipedia
 page](https://en.m.wikipedia.org/wiki/Go_(game)) if you don't know
-much about it). I learned about it from a book when I was a
-teenager, but it wasn't until I started
-university that I met others who
-played. Some of those people were quite good and they inspired me
-to become a lot more serious with the game.
+much about it). I learned about it from a book when I was a teenager,
+but it wasn't until I started university that I met others who
+played. They inspired me to become a proper student of the game.
 
 I started playing online,
 read strategy books, studied old masters, and so on.
