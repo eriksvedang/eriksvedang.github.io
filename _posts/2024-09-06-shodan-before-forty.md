@@ -30,7 +30,7 @@ played. Some of those people were quite good and they inspired me
 to become a lot more serious with the game.
 
 I started playing online,
-read strategy books, study old masters, and so on.
+read strategy books, studied old masters, and so on.
 
 For those unware, people who play Go usually keep track of their
 [rank](https://en.m.wikipedia.org/wiki/Go_ranks_and_ratings) using a
