@@ -32,18 +32,18 @@ For those unware, Go players usually keep track of their skill using a
 [ranking system](https://en.m.wikipedia.org/wiki/Go_ranks_and_ratings)
 similar to the ones in martial arts, e.g. Karate. As a beginner, you
 start at 30 *kyu* and work your way downwards to 1 kyu. Knowing your
-rank is very useful, because it also tells you what advantage (or
-'handicap') the weaker player should get to make for an even game. For
-example, between two players of rank 10 kyu and 14 kyu there's a
-difference of four, so the weaker player should start with four stones
-on the board – effectively four free moves. This is called being "four
-stones stronger". When you play online, the server keeps track of your
-rank and modifies it based on wins and losses. This works very much
-like [Elo](https://sv.wikipedia.org/wiki/Elo-rating) on Chess servers
-and in other competitive games. When you play casually against others,
-you often state the rank you believe that you have – to find a
-suitable opponent at a club, or just to get a feel for how deep
-someone's understanding of the game is.
+rank is very useful, because it also tells you what advantage the
+weaker player should get to make for an even game. For example,
+between two players of rank 10 kyu and 14 kyu there's a difference of
+four, so the weaker player should start with four stones on the board
+– effectively four free moves. This is called being "four stones
+stronger". When you play online, the server keeps track of your rank
+and modifies it based on wins and losses. This works very much like
+[Elo](https://sv.wikipedia.org/wiki/Elo-rating) on Chess servers and
+in other competitive games. When you play casually against others, you
+often state the rank you believe that you have – to find a suitable
+opponent at a club, or just to get a feel for how deep someone's
+understanding of the game is.
 
 So the rank starts at 30 kyu and goes downwards. But what happens when
 you reach 1 kyu, you might ask? At that point the rank switches to the
