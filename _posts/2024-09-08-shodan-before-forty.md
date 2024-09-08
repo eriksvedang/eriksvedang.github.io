@@ -54,7 +54,7 @@ translates to something like "first rank". This is quite an
 interesting name, because without any context it sounds a lot like the
 rank you'd start with as a beginner. In other words, when you reach
 dan level you kind of start over. For a game so deeply steeped in
-Eastern philosophy, this shouldn't sound surprising – without a
+Eastern philosophy, this shouldn't be surprising – without a
 [beginners mindset](https://en.wikipedia.org/wiki/Shoshin) it's very
 hard to improve at anything. You can't learn if you believe that
 you're already an expert.
