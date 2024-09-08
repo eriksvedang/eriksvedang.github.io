@@ -21,7 +21,7 @@ couple of years ago. But let's start at the beginning.
 
 *Go* is a completely fascinating game (check out its [wikipedia
 page](https://en.m.wikipedia.org/wiki/Go_(game)) if you don't know
-much about it). Personally, I learned about it from a book when I was a
+much about it). I learned about it from a book when I was a
 teenager, but it wasn't until I started
 university that I met others who
 played. Some of those people were quite good and they inspired me
@@ -30,22 +30,22 @@ to become a lot more serious with the game.
 I started playing online,
 read strategy books, studied old masters, and so on.
 
-For those unware, Go players usually keep track of their
-[rank](https://en.m.wikipedia.org/wiki/Go_ranks_and_ratings) using a
-system similar to the ones in martial arts, e.g. Karate. You start at
-30 *kyu*, and work your way downwards to 1 kyu. Knowing your rank is
-very useful, because it also tells you what advantage (or 'handicap')
-the weaker player should get to make for an even game. For example,
-between two players of rank 10 kyu and 14 kyu there's a difference of
-four, so the weaker player should start with four stones on the board
-– effectively four free moves. This is called being "four stones
-stronger". When you play online, the server keeps track of your rank
-and modifies it based on wins and losses. This works very much like
-[Elo](https://sv.wikipedia.org/wiki/Elo-rating) on Chess servers and
-in other competitive games. When you play casually against others, you
-often state the rank you believe that you have – to find a suitable
-opponent at a club, or just to get a feel for how deep someone's
-understanding of the game is.
+For those unware, Go players usually keep track of their skill using a
+[ranking system](https://en.m.wikipedia.org/wiki/Go_ranks_and_ratings)
+similar to the ones in martial arts, e.g. Karate. As a beginner, you
+start at 30 *kyu* and work your way downwards to 1 kyu. Knowing your
+rank is very useful, because it also tells you what advantage (or
+'handicap') the weaker player should get to make for an even game. For
+example, between two players of rank 10 kyu and 14 kyu there's a
+difference of four, so the weaker player should start with four stones
+on the board – effectively four free moves. This is called being "four
+stones stronger". When you play online, the server keeps track of your
+rank and modifies it based on wins and losses. This works very much
+like [Elo](https://sv.wikipedia.org/wiki/Elo-rating) on Chess servers
+and in other competitive games. When you play casually against others,
+you often state the rank you believe that you have – to find a
+suitable opponent at a club, or just to get a feel for how deep
+someone's understanding of the game is.
 
 So the rank starts at 30 kyu and goes downwards. But what happens when
 you reach 1 kyu, you might ask? At that point the rank switches to the
@@ -59,24 +59,25 @@ reach dan level you kind of start over. This makes sense –
 without a beginners mindset it's very hard to improve at anything. You
 can't learn if you believe that you're already an expert.
 
-Now, I'm not entirely sure about how important it is to reach the dan
-level. A good game is ideally fun even when you're not *that*
-experienced, and Go is a very good game indeed. Some of its beauty is
-there for you to see after playing just a few times. With a bit of
-guidance professional games can be thoroughly enjoyed, even though
-most of their depth lies hidden to amateurs. Still, there's a shared
-sense among players that you want to become 1 dan at some point. In a
-game as deep as Go, winning often feels a bit undeserved. None of the
-players *really* knew what was going on, after all! Focusing on
-self-improvement and your own progress is more productive than
-sherishing singular victories.
+Now, it's debatable how important it is to reach the dan level. A good
+game is ideally fun even when you're not *that* experienced, and Go is
+a very good game indeed. Some of its beauty is there for you to see
+after playing just a few times. With a bit of guidance professional
+games can be thoroughly enjoyed, even though most of their depth lies
+hidden to amateurs. Still, there's a shared sense among players that
+you want to become 1 dan at some point. In a game as deep as Go,
+winning often feels a bit undeserved. None of the players *really*
+knew what was going on, after all! Focusing on self-improvement and
+your own progress is more productive than sherishing singular
+victories. Ultimately, this makes you care about your rank even more.
 
 How long does it take to reach shodan? That is a hard question to
 answer – some people achieve it within a year after they start
 playing. Others, like me, never quite get there. A few years ago this
 started to bother me more and more. I realized that I have played a game
 (that I love) for about two decades, and I was still a "n00b"..! If I
-didn't give it my best shot soon, I might never achieve mastery. 😱
+didn't give it my best shot soon, I might never achieve even this
+first level of mastery. 😱
 
 I decided to give myself a deadline; I wanted to reach shodan before I
 turned 40. This felt like a realistic goal. At the time I was maybe 5
