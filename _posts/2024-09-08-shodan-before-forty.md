@@ -98,7 +98,7 @@ I'm actually stronger than I've ever been. What matters is my actual
 skill, a rank is just a number. I have started playing online again,
 but with slower games. My opponents are really easy now that I get
 matched against people with such a low rank. I practice as often as I
-can, but try to not stress about it. This game is so much fun.
+can, but try to not stress about it.
 
 I wrote this article to motivate myself, to be a bit more
 accountable. In two years I will read it again and see if I reached my
