@@ -65,11 +65,11 @@ a very good game indeed. Some of its beauty is there for you to see
 after playing just a few times. With a bit of guidance professional
 games can be thoroughly enjoyed, even though most of their depth lies
 hidden to amateurs. Still, there's a shared sense among players that
-you want to become 1 dan at some point. In a game as deep as Go,
+you want to achieve dan level at some point. In a game as deep as Go,
 winning often feels a bit undeserved. None of the players *really*
 knew what was going on, after all! Focusing on self-improvement and
 your own progress is more productive than sherishing singular
-victories. Ultimately, this makes you care about your rank even more.
+victories. Ultimately, your rank might become an obsession.
 
 How long does it take to reach shodan? That is a hard question to
 answer – some people achieve it within a year after they start
@@ -85,28 +85,28 @@ kyu and felt that I was improving, although slowly. I knew that the
 key to getting better is to play a lot of games. Unfortunately, a
 regular game of Go can be quite long (an hour or more) and my spare
 time is severely limited. To get more plays in I started to play short
-"blitz" games online. This was a terrible idea – I ran out of thinking
+"blitz" games online. This did not go well – I ran out of thinking
 time a lot and the stress made me play really badly. I started losing
 against people with much lower ranks, which made my own rank
 plummet. It was ugly.
 
 *Relax, it's just a game.*
 
-After a shorter break (and some soul-searching) I managed to find my
-footing once more. Though I lost a lot in a short time, I can feel
-that I'm actually stronger than I've ever been. A rank is just a
-number.  I have started playing online again, but with slower
-games. My opponents are really easy now that I get matched against
-people with such a low rank. I practice as often as I can, but try to
-not stress about it.
+After some soul-searching, I managed to find my footing once
+again. Though I lost a lot of games in a short time, I can feel that
+I'm actually stronger than I've ever been. What matters is my actual
+skill, a rank is just a number. I have started playing online again,
+but with slower games. My opponents are really easy now that I get
+matched against people with such a low rank. I practice as often as I
+can, but try to not stress about it. This game is so much fun.
 
 I wrote this article to motivate myself, to be a bit more
 accountable. In two years I will read it again and see if I reached my
-goal. It's kind of exciting. My predicition is that I will be
-unsatisfied, no matter the outcome. If I do manage to reach shodan,
-I'll most likely want to achieve the next rank, and so on. And if not,
-well, then I failed. Perhaps that will make me sad for a while, but I
-will be fine. I'll keep trying to teach my kids.
+goal. It is quite exciting. My predicition is that I will be
+unsatisfied, no matter the outcome. If I *do* manage to reach shodan,
+I'll most likely want to achieve the next level, and so on. And if not,
+well then I failed. Perhaps that will make me sad for a while, but I
+will be fine. I'll keep at it, and I'll keep trying to teach my kids.
 
-And maybe (just maybe) I can find happiness in playing this
-game that I love, only for the fun of it.
+And maybe (just maybe) I can stop caring about my rank, to find
+happiness in playing only for the fun of it.
