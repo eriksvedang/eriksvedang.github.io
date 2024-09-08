@@ -49,13 +49,15 @@ So the rank starts at 30 kyu and goes downwards. But what happens when
 you reach 1 kyu, you might ask? At that point the rank switches to the
 *dan* scale and start counting upwards instead! So someone that is one
 stone stronger than 1 kyu is 1 dan, then 2 dan, 3 dan, and so on, all
-the way up to 9 dan. The rank of 1 dan is also called *shodan*,
-which translates to something like "first rank". This is quite an
-interesting name, because without any context it sounds a lot like
-the rank you'd start with as a beginner. In other words, when you
-reach dan level you kind of start over. This makes sense –
-without a beginners mindset it's very hard to improve at anything. You
-can't learn if you believe that you're already an expert.
+the way up to 9 dan. The rank of 1 dan is also called *shodan*, which
+translates to something like "first rank". This is quite an
+interesting name, because without any context it sounds a lot like the
+rank you'd start with as a beginner. In other words, when you reach
+dan level you kind of start over. For a game so deeply steeped in
+Eastern philosophy, this shouldn't sound surprising – without a
+[beginners mindset](https://en.wikipedia.org/wiki/Shoshin) it's very
+hard to improve at anything. You can't learn if you believe that
+you're already an expert.
 
 Now, it's debatable how important it is to reach the dan level. A good
 game is ideally fun even when you're not *that* experienced, and Go is
