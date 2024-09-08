@@ -9,8 +9,8 @@ tags: [blog, note]
 *The woodcut 'Raikō shitennō to
 tsuchigumo' by Utagawa Kuninaga.*
 
-Earlier this week I turned 38 years old. Not the most exciting
-birthday, if you ask me. And in many ways it passed by in a quite
+Earlier this week I turned 38. Unsurprisingly, it was not the most
+exciting birthday. And in many ways it passed by in a quite
 unremarkable fashion – taking the kids to school, working on my
 games. Still, this birthday had an additional meaning to me, something
 that gave it a certain significance in my mind:
@@ -48,8 +48,8 @@ often state the rank you believe that you have – to find a suitable
 opponent at a club, or just to get a feel for how deep someone's
 understanding of the game is.
 
-So the rank starts at 30 kyu and goes downwards. But what happens when you
-reach 1 kyu, you might ask? At that point the rank switches to the
+So the rank starts at 30 kyu and goes downwards. But what happens when
+you reach 1 kyu, you might ask? At that point the rank switches to the
 *dan* scale and start counting upwards instead. So someone that is one
 stone stronger than 1 kyu is 1 dan, then 2 dan, 3 dan, and so on all
 the way up to 9 dan. Having the rank 1 dan is also called *shodan*,
@@ -90,4 +90,12 @@ ranks, which made my own rank plummet. It was not a great feeling.
 
 *Relax, it's just a game.*
 
-I wanted to write this article to motivate myself.
+I wanted to write this article to motivate myself. In two years I will
+read it again and see if I reached my goal. It's kind of exciting. My
+predicition is that I will be unsatisfied, no matter the outcome. If I
+do manage to reach shodan, I'll most likely want to become 2 dan. And
+if not, well then I failed. Perhaps that will make me sad, but I will
+be fine. I'll keep trying to teach my kids.
+
+And maybe (just maybe) I can find happiness in playing this
+game that I love, only for the fun of it.
