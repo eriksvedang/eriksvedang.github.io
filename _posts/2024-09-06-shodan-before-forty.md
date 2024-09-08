@@ -6,7 +6,7 @@ color: '#FFC'
 tags: [blog, note]
 ---
 
-*The illustration is a part of the woodcut 'Raikō shitennō to
+*The woodcut 'Raikō shitennō to
 tsuchigumo' by Utagawa Kuninaga.*
 
 Earlier this week I turned 38 years old. Not the most exciting
@@ -17,17 +17,19 @@ that gave it a certain significance in my mind:
 
 *"Only two years left."*
 
-No, this has nothing to do with my expected lifespan (I
-hope). Rather, what I want to write about is a bet I made with myself
-a couple of years ago... but first some background.
+No, this has nothing to do with my expected lifespan (I hope). Rather,
+what I couldn't get out of my mind was a bet I made with myself a
+couple of years ago...
 
-[Go](https://en.m.wikipedia.org/wiki/Go_(game)) is an ancient game
-from China. I learned about it from a book when I was around 14, but
-it wasn't until I started [university](https://www.his.se/dataspel)
-that I met other people who played, several of the quite good.
-They inspired me to become a lot more serious with the game. I started
-playing online on Go-servers, read books about strategy, study old
-masters, and so on.
+But let's start at the beginning. *Go* is a utterly fascinating game,
+for many reasons. Check out its [wikipedia
+page](https://en.m.wikipedia.org/wiki/Go_(game)) if you don't know
+much about it! Personally, I learned about it from a book when I was a
+teenager, but it wasn't until I started
+[university](https://www.his.se/dataspel) that I met others who
+played. Severeal of those people were quite good and they inspired me
+to become a lot more serious with the game. I started playing online,
+I read books about strategy, studied old masters, and so on.
 
 For those unware, people who play Go usually keep track of their
 [rank](https://en.m.wikipedia.org/wiki/Go_ranks_and_ratings) using a
@@ -47,36 +49,42 @@ opponent at a club, or just to get a feel for how deep someone's
 understanding of the game is.
 
 So the rank starts at 30 and goes downwards, but what happens when you
-reach 1 kyu, you might ask? At that point the ranking scale switches
-to something called 'dan' and start counting up instead. So someone
-that is one stone stronger than 1 kyu is 1 dan, then 2 dan, 3 dan, and
-so on all the way up to 9 dan. Having the rank 1 dan is also called
-*shodan*, which translates to something like "first rank". This is
-quite an interesting name, because without any context it kind of
-sounds like the rank you'd start with, as a beginner. In other words,
-it isn't until you've reached dan level that you actually start
-playing the game *for real*.
+reach 1 kyu, you might ask? At that point the rank switches to the
+"dan" scale and start counting upwards instead. So someone that is one
+stone stronger than 1 kyu is 1 dan, then 2 dan, 3 dan, and so on all
+the way up to 9 dan. Having the rank 1 dan is also called *shodan*,
+which translates to something like "first rank". This is quite an
+interesting name, because without any context, it kind of sounds like
+the rank you'd start with, as a beginner. In other words, it isn't
+until you've reached dan level that you actually start playing the
+game *for real*.
 
 Now, I'm not entirely sure about this sentiment. A good game is
-ideally fun even when you're not that experienced, and Go is a very
-good game indeed. Still, there's a common conception among players
+ideally fun even when you're not *that* experienced, and Go is a very
+good game indeed. A lot of its beauty is there for you to experience
+after just a few games, and with some guidance even professional games
+can be thoroughly enjoyed, even though most of their depth lies hidden
+to an amateur. Still, there's a common conception among players
 that you want to reach 1 dan at some point. At the very least it's a
-good goal to have, something to strive for.
+useful and obvious goal to have, something to strive for.
 
 How long does it take to reach shodan? That is a hard question to
-answer, some people achieve it within a year after they start
-playing. Others, like me, haven't reached it yet. A few years ago this
+answer – some people achieve it within a year after they start
+playing. Others, like me, never quite get there. A few years ago this
 started to bother me properly. I realized that I have played a game
 (that I love) for about two decades, and I was still a "n00b"..!
 
 I decided to give myself a deadline; I wanted to reach shodan before I
 turned 40. This felt like a realistic goal. At the time I was maybe 5
-kyu and felt that I was improving, although slowly. I tried to
-practice more, but life has a way of getting in ones way. I started to
-feel anxious about playing, the fear of losing was strong. At some
-point I decided that the key to improving is to play a lot more
-games. A problem with Go is that a game can be quite long. To get more
-plays in I started to play quick games online. This was a terrible
-idea, I ran out of thinking time a lot and the stress made me play
-really badly. I started losing against people with much lower ranks,
-which made my own rank decrease rapidly. It was not a great feeling.
+kyu and felt that I was improving, although slowly. I knew that the
+key to improving is to play a lot of games. Unfortunately, a single
+game of Go can be quite long and my spare time is severely limited. To
+get more plays in I started to play quick games online. This was a
+terrible idea – I ran out of thinking time a lot and the stress made
+me play really badly. I started losing against people with much lower
+ranks, which made my own rank plummet. It was not a great feeling.
+
+*Breathe, it's just a game.*
+
+I wanted to write this article to motivate myself. In two years I'll
+be reminded of it, and we'll see if I managed to reach my goal.
