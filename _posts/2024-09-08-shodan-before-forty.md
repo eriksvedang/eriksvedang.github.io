@@ -17,7 +17,7 @@ it a certain significance in my mind:
 
 No, this has nothing to do with my expected lifespan (I hope). Rather,
 what I couldn't stop thinking about was a bet I made with myself a
-couple of years ago. But let's start at the beginning.
+couple of years ago. But let's back up a bit.
 
 *Go* is a completely fascinating game (check out its [wikipedia
 page](https://en.m.wikipedia.org/wiki/Go_(game)) if you don't know
@@ -30,7 +30,7 @@ read strategy books, studied old masters, and so on.
 
 For those unware, Go players usually keep track of their skill using a
 [ranking system](https://en.m.wikipedia.org/wiki/Go_ranks_and_ratings)
-similar to the ones in martial arts, e.g. Karate. As a beginner, you
+similar to the ones in martial arts (e.g. Karate). As a beginner, you
 start at 30 *kyu* and work your way downwards to 1 kyu. Knowing your
 rank is very useful, because it also tells you what advantage the
 weaker player should get to make for an even game. For example,
