@@ -84,11 +84,11 @@ turned 40. This felt like a realistic goal. At the time I was maybe 5
 kyu and felt that I was improving, although slowly. I knew that the
 key to getting better is to play a lot of games. Unfortunately, a
 regular game of Go can be quite long (an hour or more) and my spare
-time is severely limited. To get more plays in I started to play short
-"blitz" games online. This did not go well – I ran out of thinking
-time a lot and the stress made me play really badly. I started losing
-against people with much lower ranks, which made my own rank
-plummet. It was ugly.
+time is severely limited, I am a parent of two after all. To get more
+plays in I started to play short "blitz" games online. This did not go
+well – I ran out of thinking time a lot and the stress made me play
+really badly. I started losing against people with much lower ranks,
+which made my own rank plummet. It was ugly.
 
 *Relax, it's just a game.*
 
