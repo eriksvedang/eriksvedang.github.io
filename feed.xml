@@ -13,7 +13,7 @@ layout: null
         {% for post in site.posts %}
         <item>
             <description>
-                {{ post.content | escape | truncate: '400' }}
+                {{ post.content | escape | truncate: '4000' }}
             </description>
             <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
             <guid>

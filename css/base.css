@@ -235,6 +235,14 @@ hr {
     padding: 1em;
 }
 
+.rss-link {
+    font-size: 0.8em;
+    text-align: center;
+    color: black;
+    clear: both;
+    padding: 1em;
+}
+
 .youtube-video {
   aspect-ratio: 16 / 9;
   width: 100%;
