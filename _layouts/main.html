@@ -1,12 +1,7 @@
 <!DOCTYPE HTML>
 
 <html>
-  <header>
-    <title>{{ page.title }}</title>
-    <link href="https://fonts.googleapis.com/css?family=Domine|Abril+Fatface" rel="stylesheet">
-    <link rel="alternate" type="application/rss+xml"  href="{{ site.url }}/feed.xml" title="{{ site.title }}">
-    <a rel="me" href="https://mastodon.gamedev.place/@e_svedang">Mastodon</a>
-
+  <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
@@ -14,6 +9,10 @@
     <link rel="stylesheet" type="text/css" href="/css/base.css">
     <link rel="stylesheet" type="text/css" href="/css/mid.css" media="all and (min-width: 700px)">
     <link rel="stylesheet" type="text/css" href="/css/large.css" media="all and (min-width: 1200px)">
+
+    <link href="https://fonts.googleapis.com/css?family=Domine|Abril+Fatface" rel="stylesheet">
+    <link rel="alternate" type="application/rss+xml"  href="{{ site.url }}/feed.xml" title="{{ site.title }}">
+    <a rel="me" href="https://mastodon.gamedev.place/@e_svedang">Mastodon</a>
 
     <script>
       function gotoOldWebsite() {
@@ -29,7 +28,9 @@
       win.focus();
       }
     </script>
-
+  </head>
+  <header>
+    <title>{{ page.title }}</title>
   </header>
   <body>
     <div class="page">
