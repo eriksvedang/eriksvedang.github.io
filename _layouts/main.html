@@ -12,20 +12,19 @@
 
     <link href="https://fonts.googleapis.com/css?family=Domine|Abril+Fatface" rel="stylesheet">
     <link rel="alternate" type="application/rss+xml"  href="{{ site.url }}/feed.xml" title="{{ site.title }}">
-    <a rel="me" href="https://mastodon.gamedev.place/@e_svedang">Mastodon</a>
 
     <script>
       function gotoOldWebsite() {
-      var pathArray = location.href.split( '/' );
-      var sum = ""
-      if(pathArray.length > 3) {
-        for(i = 3; i < pathArray.length; i++) {
-          sum += pathArray[i] + "/";
-        }
-      }
-      var url = "https://eriksvedang.wordpress.com/" + sum;
-      var win = window.open(url, '_blank');
-      win.focus();
+          var pathArray = location.href.split( '/' );
+          var sum = ""
+          if(pathArray.length > 3) {
+              for(i = 3; i < pathArray.length; i++) {
+                  sum += pathArray[i] + "/";
+              }
+          }
+          var url = "https://eriksvedang.wordpress.com/" + sum;
+          var win = window.open(url, '_blank');
+          win.focus();
       }
     </script>
   </head>
@@ -40,6 +39,7 @@
     </div>
     <div class="copyright">
       &copy; Erik Svedäng MMXXIV
+      <a rel="me" id="mastodon" href="https://mastodon.gamedev.place/@e_svedang">Mastodon</a>
     </div>
   </body>
 </html>

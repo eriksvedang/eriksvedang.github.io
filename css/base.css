@@ -244,3 +244,7 @@ hr {
   font-size: 35px;
   line-height: 70px;
 }
+
+#mastodon {
+    visibility: hidden;
+}
