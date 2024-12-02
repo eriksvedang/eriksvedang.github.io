@@ -16,6 +16,11 @@ available: Nope
 
 ---
 
-No More Sweden is a gathering of independent game developers from the whole world meeting up somewhere in Sweden, making games and partying for a weekend.
+No More Sweden was a gathering of independent game developers from the
+whole world meeting up somewhere in Sweden, making games and partying
+for a weekend. At it's peak, we had around 100 visitors.
 
-The event has been run by me and Martin Jonasson ([@grapefrukt](https://twitter.com/grapefrukt)) since 2008. Read more about it at [www.nomoresweden.com](http://www.nomoresweden.com).
+The event was been run by me and Martin Jonasson
+([@grapefrukt](https://twitter.com/grapefrukt)) from 2008
+to 2018. Read more about it at
+[www.nomoresweden.com](http://www.nomoresweden.com).
