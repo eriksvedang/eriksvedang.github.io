@@ -7,13 +7,13 @@ tags: [blog, note]
 ---
 
 I'm very happy to announce that I, together with miniature landscape
-builder [Erik Fälth](https://www.youtube.com/@eriksminiworlds/) and
+builder [Erik Fälth](https://www.youtube.com/@eriksminiworlds/), and
 comic book artist & illustrator [Olof
 Hjalmar](https://olofhjalmar.webflow.io/), have received a grant to
 develop a tabletop miniatures game about ["Slaget vid Nissan"](https://sv.wikipedia.org/wiki/Slaget_vid_Nissan) / ["The Battle of
 Niså"](https://en.wikipedia.org/wiki/Battle_of_Nis%C3%A5) &mdash; one
 of the largest naval viking battles ever to occur. (And it happened
-just nearby where we live.)
+just close to where we live.)
 
 We want to thank the [Region of
 Halland](https://www.regionhalland.se/kultur) greatly for supporting this project!
