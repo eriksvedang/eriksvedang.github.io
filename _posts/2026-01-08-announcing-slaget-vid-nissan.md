@@ -1,6 +1,6 @@
 ---
 layout: note
-title: Funding for 'Slaget vid Nissan'
+title: 'Slaget vid Nissan' funded!
 color: '#EEAAAA'
 image: jumping_viking_wide.jpg
 tags: [blog, note]
