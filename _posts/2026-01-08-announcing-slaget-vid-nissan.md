@@ -18,9 +18,17 @@ just close to where we live.)
 
 We are very thankful for the support of this project!
 
-If you want to follow our progress, you should definitely subscribe to Erik Fälth's [YouTube
-channel](https://www.youtube.com/@eriksminiworlds/), where he will
-post videos throughout the project.
+Now, our plan is to create a **huge** one-of-a-kind diorama game
+board, filled with viking ships and their bloodthirsty crew. The game
+itself will be equal measures educational and fast-paced fun.
 
-You can also keep an eye on the game's webpage at
+If you want to follow our progress, you should keep an eye on the game's webpage at
 [https://www.eriksvedang.com/slaget-vid-nissan](https://www.eriksvedang.com/slaget-vid-nissan).
+
+You can also subscribe to Erik Fälth's [YouTube
+channel](https://www.youtube.com/@eriksminiworlds/), where he will
+post videos throughout the project. Here's the first one:
+
+<iframe width="560" height="315"
+src="https://youtube.com/embed/pXNMFRWVot4?si=dqJt6vHRT2cxgpoU"
+frameborder="0" allowfullscreen></iframe>

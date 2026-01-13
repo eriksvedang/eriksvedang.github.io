@@ -256,3 +256,7 @@ hr {
 #mastodon {
     visibility: hidden;
 }
+
+strong {
+    font-weight: bold;
+}
