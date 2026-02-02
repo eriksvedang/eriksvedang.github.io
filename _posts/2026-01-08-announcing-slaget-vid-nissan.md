@@ -29,6 +29,5 @@ You can also subscribe to Erik Fälth's [YouTube
 channel](https://www.youtube.com/@eriksminiworlds/), where he will
 post videos throughout the project. Here's the first one:
 
-<iframe width="380" height="680"
-src="https://youtube.com/embed/pXNMFRWVot4?si=dqJt6vHRT2cxgpoU"
+<iframe width="340" height="640" src="https://youtube.com/embed/hV7eoxXK07A?si=iyE5Dsf3R6kQnFGc"
 frameborder="0" allowfullscreen></iframe>
