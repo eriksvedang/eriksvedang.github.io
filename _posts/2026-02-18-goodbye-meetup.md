@@ -28,5 +28,5 @@ We will use a [Discord server](https://discord.gg/sxTwspFqqU) to organize upcomi
 regarding that platform too...)
 
 So if you're somewhat close to Halmstad and want to hang out (or maybe
-even give a talk?), please come join us! Or just shoot us an email,
+even give a talk?), please come join us! Or just shoot us an [email](mailto:halmstadfp@protonmail.com),
 that works too.
