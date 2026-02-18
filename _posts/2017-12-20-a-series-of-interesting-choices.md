@@ -16,7 +16,7 @@ color: '#3B5'
 permalink: interesting-choices
 tags: [major-analog]
 
-released: 2017
+released: 2019
 platforms: Boardgame
 available: Nope
 
