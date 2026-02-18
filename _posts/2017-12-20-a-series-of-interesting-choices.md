@@ -16,7 +16,7 @@ color: '#3B5'
 permalink: interesting-choices
 tags: [major-analog]
 
-released: In development
+released: 2017
 platforms: Boardgame
 available: Nope
 
