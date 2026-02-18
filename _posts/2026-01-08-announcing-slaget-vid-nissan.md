@@ -23,7 +23,7 @@ board, filled with viking ships and their bloodthirsty crew. The game
 itself will be equal measures educational and fast-paced fun.
 
 If you want to follow our progress, you should keep an eye on the game's webpage at
-[https://www.eriksvedang.com/slaget-vid-nissan](https://www.eriksvedang.com/slaget-vid-nissan).
+[www.eriksvedang.com/slaget-vid-nissan](https://www.eriksvedang.com/slaget-vid-nissan).
 
 You can also subscribe to Erik Fälth's [YouTube
 channel](https://www.youtube.com/@eriksminiworlds/), where he will
