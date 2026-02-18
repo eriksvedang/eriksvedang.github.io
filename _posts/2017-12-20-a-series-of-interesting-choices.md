@@ -16,7 +16,7 @@ color: '#3B5'
 permalink: interesting-choices
 tags: [major-analog]
 
-released: 2018
+released: 2018 (self-published)
 platforms: Boardgame
 available: Self-published
 
