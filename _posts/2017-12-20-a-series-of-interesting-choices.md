@@ -18,7 +18,7 @@ tags: [major-analog]
 
 released: 2019
 platforms: Boardgame
-available: Nope
+available: Self-published
 
 official-site: eriksvedang.github.io/aseriesofinterestingchoices/
 official-site-name: The ASOIC Website
