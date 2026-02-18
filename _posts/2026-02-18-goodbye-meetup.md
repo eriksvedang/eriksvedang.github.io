@@ -7,9 +7,9 @@ tags: [blog, note]
 ---
 
 For the last six years or so, I've been the maintainer of the
-[Meetup](https://www.meetup.com/) group Halmstad Functional
-Programming. I started the group when I moved here because going to
-Meetup groups in Gothenburg was a big thing back then, and it had led
+[Meetup](https://www.meetup.com/) group "Halmstad Functional
+Programming". I started the group when I moved to Halmstad because going to
+Meetup groups back in Gothenburg was a big thing at the time, and it had led
 to a lot of fun experiences and long-lasting friendships for me.
 
 Unfortunately, Meetup of today (at least here in Halmstad) is not
