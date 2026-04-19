@@ -25,4 +25,11 @@ Initially designed by me as a board game in the spring of 2011, later to be digi
 
 It's a 2-player game similar to chess, except that both players plan five moves ahead (secretely) and then watch them play out. There are various attacks available and a whole slew of destructible levels in various configurations.
 
-At its peak (the winter of 2012 or so...) there were quite a few players playing the game, making it easy to find opponents. Nowadays it's harder but if you and a friend buy the game you can always just play with each other. The servers are still running and everything works well. Our goal has always been to publish the game for iPad (since it has the perfect form factor for making secret moves). Hopefully one day it will happen...
+At its peak (the winter of 2012 or so...) there were quite a few
+players playing the game, making it easy to find opponents. Then it
+all faded away, with just the occasional people stopping by to fight
+with their robots. After keeping the servers up for over 10 years we
+had to close down eventually. But maybe someday we can reboot the
+whole game.
+
+<!-- Nowadays it's harder but if you and a friend buy the game you can always just play with each other. The servers are still running and everything works well. Our goal has always been to publish the game for iPad (since it has the perfect form factor for making secret moves). Hopefully one day it will happen... -->
