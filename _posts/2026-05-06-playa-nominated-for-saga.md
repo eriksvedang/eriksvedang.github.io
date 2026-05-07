@@ -8,7 +8,7 @@ tags: [blog, note]
 
 *Artwork for the prototype, by [Simon Jannerland](https://jannerland.myportfolio.com).*
 
-A board game prototype I've been working for the last year or so has
+A board game I've been working for the last year or so has
 been nominated for the Swedish game design competition
 [SAGA](https://saga.boardgamedesign.se/sida/hem.html)! The working
 title of the game is Playa and it's about selling ice-cream on a very
