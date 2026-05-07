@@ -22,7 +22,7 @@ several of my designs it takes some ideas from
 new context. There's a fun twist on "I cut, you choose" in there too
 :)
 
-I'm very much locking forward to the finale of the game design
+I'm very much looking forward to the finale of the game design
 competition; it will take place at [LinCon](https://www.lincon.se/)
 and all the nominated game designers will get to hang out for the
 whole weekend!
