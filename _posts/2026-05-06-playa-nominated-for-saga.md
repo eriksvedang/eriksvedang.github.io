@@ -11,7 +11,7 @@ tags: [blog, note]
 A board game I've been working for the last year or so has
 been nominated for the Swedish game design competition
 [SAGA](https://saga.boardgamedesign.se/sida/hem.html)! The working
-title of the game is **Playa* and it's about selling ice-cream on a
+title of the game is **Playa** and it's about selling ice-cream on a
 long beach filled with sunbathers. Inspiration for the theme comes
 from Halland, where I live.
 
