@@ -22,7 +22,7 @@ available: Nope
 
 ---
 
-Slice & Dice is a minimalistic card game designed by me (in 2010) with illustrations by Nicolai Troshinsky. It could be described as a novel take on the deck-building genre. Over the span of five rounds the players build up their troops and fighting power to win treasure in battle. With just two decks of cards and some dice this game is packing strategic and novel gameplay into quite a small box.
+Slice & Dice is a minimalistic card game designed by me (in 2010) with illustrations by [Nicolai Troshinsky](https://www.troshinsky.com/). It could be described as a novel take on the deck-building genre. Over the span of five rounds the players build up their troops and fighting power to win treasure in battle. With just two decks of cards and some dice this game is packing strategic and novel gameplay into quite a small box.
 
 The game is for two players and takes about 30 – 45 minutes to play.
 
