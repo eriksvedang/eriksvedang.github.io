@@ -1,7 +1,7 @@
 ---
 layout: note
 title: "On Features and Tiny Computers"
-color: '#024c50'
+color: '#28cab6'
 image: TinyComputer.png
 tags: [blog, note]
 
