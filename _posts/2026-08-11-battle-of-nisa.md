@@ -22,11 +22,14 @@ official-site: www.battleofnisa.com
 official-site-name: www.battleofnisa.com
 ---
 
-Also known as "Slaget vid Nissan" (in Swedish). This one-of-a-kind
-board game and playable piece of art was produced by me, model builder
-Erik Fälth, and the illustrator Olof Hjalmar, in the spring
-of 2026. It's opening exhibition was at the public library of
-Halmstad, August 22nd the same year.
+Also known as "Slaget vid Nissan" (in Swedish), depicting a huge
+naval viking battle that occured right outside of present-day
+Halmstad, almost a 1000 years ago!
+
+This one-of-a-kind board game and playable piece of art was produced
+by me, model builder Erik Fälth, and the illustrator Olof Hjalmar, in
+the spring of 2026. It's opening exhibition was at the public library
+of Halmstad, August 22nd the same year.
 
 It was made with the support from Region Halland.
 
