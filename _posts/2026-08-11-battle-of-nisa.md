@@ -33,5 +33,5 @@ of Halmstad, August 22nd the same year.
 
 It was made with the support from Region Halland.
 
-A lot more information about the game and how it plays can be found at the [official
-website](https://www.battleofnisa.com).
+A lot more information about the game and how it looks and plays can
+be found at the [official website](https://www.battleofnisa.com).
