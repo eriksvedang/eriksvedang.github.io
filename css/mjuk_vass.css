@@ -1,0 +1,62 @@
+body {
+
+}
+
+@keyframes morph {
+  0% { background-color: #F0F; }
+  33% { background-color: #0FF; }
+  66% { background-color: #FFA; }
+  100% { background-color: #F0F; }
+}
+
+.content {
+    animation: morph 10s infinite;
+
+    /* height: 100%; */
+    /* width: 100%; */
+    margin: 0px;
+    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 50px;
+}
+
+h1 {
+  font-family: "Rubik 80s Fade", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13em;
+  margin: 0.2em;
+}
+
+figure {
+    margin-top: 0em;
+    margin-bottom: 0em;
+    padding: 1em 0em 3em 3em;
+}
+
+.odd {
+    background-color: #CCC;
+}
+
+.even {
+    background-color: #DDD;
+}
+
+figcaption {
+  font-family: "Rubik 80s Fade", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 4em;
+  color: #666;
+  margin-bottom: 0.5em;
+}
+
+audio {
+    margin: 0em;
+}
+
+.dl-icon {
+    width: 32px;
+    margin: 0em;
+    margin-left: 0px;
+}
